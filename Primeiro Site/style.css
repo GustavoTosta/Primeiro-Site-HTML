@@ -1,0 +1,19 @@
+*{
+    background-image: url(img/shooting-monochrome-space-background-starry-sky.jpg);
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    color:rgb(250, 188, 74);
+}
+.texto{
+    text-align: justify;
+    font-size: large;
+    color: whitesmoke;
+    font-family: Lucida;
+}
+.imagem{
+    text-align:left;
+    margin: 20px;
+}
